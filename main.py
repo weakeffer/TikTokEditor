@@ -123,6 +123,7 @@ def start_processing(input_path, output_folder, mode, param, progress_var, statu
 def main():
     global root
     root = tk.Tk()
+
     root.title("Quick editor for TikTok (FFmpeg)")
     root.geometry("600x600")
 
