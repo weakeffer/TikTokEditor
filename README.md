@@ -30,6 +30,7 @@ Threading (background processing)
 2. Clone the repository:
 
 git clone https://github.com/weakeffer/TikTokEditor.git
+
 cd TikTokEditor
 
 4. Install dependencies:
